@@ -34,7 +34,7 @@ echo __tr('Short call function');
 
 {'Close'|translation}
 
-{'/img/logo-eng.png'|translation}
+<img src="{'/img/logo-eng.png'|translation}"/>
 
  
 ```
