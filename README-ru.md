@@ -1,5 +1,5 @@
 # translation-plugin
-Integration of translations into PHP projects
+Интеграция переводов в проекты PHP.
 
 Читайте этот документ на других языках: [English](README.md).
 
