@@ -14,7 +14,7 @@ TODO
 ```php
 echo translation_plugin::getInstance()->translate('Translate it');
 
-//Short call function:
+// Короткая функция для вызова перевода (есть в файле functions.php)
 function __tr($string) {
   return translation_plugin::getInstance()->translate($string);
 }
