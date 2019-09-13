@@ -35,7 +35,6 @@ To translate, you must replace NULL with the translation string.
 {'Close'|translation}
 
 {'/img/logo-eng.png'|translation}
-
  
 ```
 
